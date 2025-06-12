@@ -30,3 +30,5 @@ python ml_detector.py
 Replace `'YOUR_GOOGLE_SAFE_BROWSING_API_KEY'` in `gui.py` with your actual Google Safe Browsing API key.
 
 ---
+## 📌 Note
+Take your own dataset my dataset was large in size so i could not upload it here
