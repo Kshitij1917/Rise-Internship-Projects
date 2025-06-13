@@ -1,0 +1,9 @@
+{
+    "21": {"vulnerability": "Anonymous FTP enabled", "severity": "medium"},
+    "22": {"vulnerability": "OpenSSH outdated version", "severity": "medium"},
+    "23": {"vulnerability": "Telnet service enabled", "severity": "high"},
+    "80": {"vulnerability": "Apache HTTPD outdated", "severity": "medium"},
+    "443": {"vulnerability": "SSL Certificate expired", "severity": "low"},
+    "445": {"vulnerability": "SMBv1 enabled (WannaCry, EternalBlue)", "severity": "critical"},
+    "3389": {"vulnerability": "RDP BlueKeep RCE", "severity": "critical"}
+}

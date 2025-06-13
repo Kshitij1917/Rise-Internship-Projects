@@ -1,0 +1,12 @@
+{
+  "sender_email": "kshitijrana1917@gmail.com",
+  "app_password": "cmgs ytuw swqt enln",
+  "receiver_emails": [
+    "you@example.com",
+    "1234567890@txt.att.net"
+  ],
+  "twilio_account_sid": "AC8cef3758737885c13d46b9e27ff673a9",
+  "twilio_auth_token": "4bdecc0d4141b45ac693ed50969897a4",
+  "twilio_from_number": "+13092049811",
+  "twilio_to_number": "+917876589915"
+}
