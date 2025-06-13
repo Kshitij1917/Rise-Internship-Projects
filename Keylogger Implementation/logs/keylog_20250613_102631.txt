@@ -1,0 +1,10 @@
+
+=== Keylogger Session Started ===
+Timestamp: 2025-06-13 10:26:31.987094
+
+--- Antivirus Detection ---
+Detected: MsMpEng.exe
+Detected: mcshield.exe
+
+--- Keystroke Logging ---
+Nonefj [backspace]  [backspace]  [backspace] jdf [backspace]  [backspace]  [backspace]  [backspace]  [caps_lock] m [caps_lock] s [caps_lock] m [caps_lock] o [caps_lock]  [backspace]  [caps_lock] p [caps_lock]   [backspace]  [backspace]  [backspace]  [backspace]  [backspace]  [backspace] 

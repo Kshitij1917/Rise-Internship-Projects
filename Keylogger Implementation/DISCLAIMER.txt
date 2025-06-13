@@ -1,0 +1,7 @@
+This software is intended for educational purposes only.
+
+Using this software for monitoring or recording keystrokes on any device without the owner's explicit consent is illegal and unethical.
+
+The author takes no responsibility for any misuse.
+
+Proceed only if you agree to use this for ethical testing in controlled environments.
