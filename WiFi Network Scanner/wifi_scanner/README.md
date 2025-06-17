@@ -30,8 +30,7 @@ HomeNetwork,-40,6,WPA2
 CafeWiFi,-70,11,Open
 ```
 
-## 📸 Screenshot
-Coming soon...
+
 
 ## ⚠️ Note
 - Requires Wi-Fi hardware and permissions.
