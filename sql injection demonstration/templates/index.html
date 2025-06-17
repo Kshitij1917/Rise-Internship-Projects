@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <h2>Login Form</h2>
+    <p style="color: {{ 'green' if secure_mode else 'red' }}">
+        {{ "SECURE MODE: Parameterized Queries" if secure_mode else "VULNERABLE MODE: Unsafe String Interpolation" }}
+    </p>
+    <form action="/login" method="post">
+        <input type="text" name="username" placeholder="Username" required><br>
+        <input type="password" name="password" placeholder="Password" required><br>
+        <button type="submit">Login</button>
+    </form>
+</body>
+</html>
